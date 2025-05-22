@@ -13,11 +13,6 @@
 ---
 
 
-<p align="center">
-
-</p>
-
-
 
 
 
@@ -38,7 +33,7 @@
 </p>
 
 <h3 align="center">Connect with me</h3>
-
+---
 <p align="center">
   <a href="mailto:safaaramadan250@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="40"/>
