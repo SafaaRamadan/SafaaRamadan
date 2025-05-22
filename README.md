@@ -10,8 +10,6 @@ Config files for my GitHub profile.
 </p>
 
 
-<h3 align="center">💻 Languages & Frameworks</h3>
-
 <p align="center">
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
