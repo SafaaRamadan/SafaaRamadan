@@ -1,4 +1,4 @@
-### <h3 align="center"> Technologies Used:
+### <h1 align="center"> Technologies Used:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
