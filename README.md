@@ -1,5 +1,12 @@
 ### <h1 align="center"> Technologies Used:
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2.2-lightgrey?logo=scikit-learn)](https://scikit-learn.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.24-blue?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-yellow?logo=matplotlib&logoColor=black)](https://matplotlib.org/)
+
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
@@ -25,6 +32,9 @@
   <!-- Django -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django"/>
 </p>
+
+
+
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
