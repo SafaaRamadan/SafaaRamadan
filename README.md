@@ -14,11 +14,6 @@
 
 
 
-
-
-
-
-
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
@@ -31,9 +26,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafaaRamadan&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="200"/>
 </p>
+---
 
 <h3 align="center">Connect with me</h3>
----
+
 <p align="center">
   <a href="mailto:safaaramadan250@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="40"/>
