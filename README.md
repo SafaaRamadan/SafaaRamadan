@@ -37,3 +37,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafaaRamadan&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="200"/>
 </p>
+
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+  <a href="mailto:safaaramadan250@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/safaa-ramadan-692a14264/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
+</p>
+
