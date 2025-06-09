@@ -1,5 +1,10 @@
 ### <h1 align="center"> Technologies Used:
 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=social)
+
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
