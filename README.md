@@ -23,18 +23,7 @@
 
 
 
-<h3 align="center"> GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SafaaRamadan&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SafaaRamadan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="200"/>
-</p>
-
-<h3 align="center"> Most Used Languages</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafaaRamadan&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="200"/>
-</p>
 
 
 <h3 align="center">Connect with me</h3>
